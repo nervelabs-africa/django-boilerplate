@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+./scripts/cloud_sql_proxy -instances=""=tcp:5432

@@ -1,0 +1,3 @@
+#!/usr/bin/bash#
+# activates the virtual environment
+source '$1'
